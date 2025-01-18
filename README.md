@@ -1,5 +1,5 @@
 # **注意**
-中文版\[English click here](README_en.md)
+中文版\[English click here](#README_en.md)
 
 银行系统.py
 
