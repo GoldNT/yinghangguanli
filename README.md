@@ -1,5 +1,5 @@
 # **注意**
-中文版\([English click here](https://github.com/GoldNT/yinghangguanli/blob/main/README_en.md))         (#[README_en.md](https://github.com/GoldNT/yinghangguanli/blob/main/README_en.md))
+中文版  \  ([English click here](https://github.com/GoldNT/yinghangguanli/blob/main/README_en.md))        
 
 银行系统.py
 
