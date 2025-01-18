@@ -1,4 +1,5 @@
 # **注意**
+中文版\English click here
 
 银行系统.py
 
